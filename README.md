@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xss-su-404
-- 👀 interested in why 1 sock disappears in dryer
-- 🌱 I’m currently learning Schema Evolution
-- 💞️ I’m looking to collaborate the Git era
+- 👋 I am xss-su-404
+- 👀 I am interested in why 1 sock disappears in dryer?
+- 🌱 I am currently pondering Schema Evolution...
+- 💞️ I am looking to collaborate w/ the Git era!
 - 📫 xss-su-404
 
 <!---
